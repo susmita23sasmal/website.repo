@@ -1,0 +1,47 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+#navbar{
+    display: flex;
+}
+.display-4{
+    text-align: center;
+}
+.lead{
+    text-align: center;
+    font-style: italic;
+}
+.nav-item a, a:hover{
+    color: black;
+}
+.row{
+    padding: 16px;
+    margin: 10px;
+}
+.col{
+    padding: 16px;
+    margin: 10px;
+}
+p, h3{
+    text-align: center;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+    padding: 5px;
+}
+.welcome{
+    font-size: 50px;
+}
+a{
+    text-align: center;
+    font-style: normal;
+}
+.first-section{
+    background-image: url(../File.html/bg.jpg);
+}
+.second-section{
+    background-image: url(../File.html/images.jpg);
+}
